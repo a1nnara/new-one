@@ -1,3 +1,3 @@
 # new-one
 still learning
-praccticing edit branch
+practicing edit branch
